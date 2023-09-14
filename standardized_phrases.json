@@ -1,82 +1,82 @@
 [
     {
         "phrase": "optimal performance",
-        "similarity_threshold": 0.95
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "utilise resources",
-        "similarity_threshold": 0.92
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "enhance productivity",
-        "similarity_threshold": 0.94
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "conduct an analysis",
-        "similarity_threshold": 0.91
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "maintain a high standard",
-        "similarity_threshold": 0.93
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "implement best practices",
-        "similarity_threshold": 0.96
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "ensure compliance",
-        "similarity_threshold": 0.95
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "streamline operations",
-        "similarity_threshold": 0.94
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "foster innovation",
-        "similarity_threshold": 0.93
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "drive growth",
-        "similarity_threshold": 0.92
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "leverage synergies",
-        "similarity_threshold": 0.95
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "demonstrate leadership",
-        "similarity_threshold": 0.96
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "exercise due diligence",
-        "similarity_threshold": 0.97
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "maximize stakeholder value",
-        "similarity_threshold": 0.98
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "prioritize tasks",
-        "similarity_threshold": 0.99
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "facilitate collaboration",
-        "similarity_threshold": 0.95
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "monitor performance metrics",
-        "similarity_threshold": 0.96
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "execute strategies",
-        "similarity_threshold": 0.97
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "gauge effectiveness",
-        "similarity_threshold": 0.98
+        "similarity_threshold": 0.50
     },
     {
         "phrase": "champion change",
-        "similarity_threshold": 0.99
+        "similarity_threshold": 0.50
     }
 ]
