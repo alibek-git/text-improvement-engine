@@ -1,0 +1,82 @@
+[
+    {
+        "phrase": "optimal performance",
+        "similarity_threshold": 0.95
+    },
+    {
+        "phrase": "utilise resources",
+        "similarity_threshold": 0.92
+    },
+    {
+        "phrase": "enhance productivity",
+        "similarity_threshold": 0.94
+    },
+    {
+        "phrase": "conduct an analysis",
+        "similarity_threshold": 0.91
+    },
+    {
+        "phrase": "maintain a high standard",
+        "similarity_threshold": 0.93
+    },
+    {
+        "phrase": "implement best practices",
+        "similarity_threshold": 0.96
+    },
+    {
+        "phrase": "ensure compliance",
+        "similarity_threshold": 0.95
+    },
+    {
+        "phrase": "streamline operations",
+        "similarity_threshold": 0.94
+    },
+    {
+        "phrase": "foster innovation",
+        "similarity_threshold": 0.93
+    },
+    {
+        "phrase": "drive growth",
+        "similarity_threshold": 0.92
+    },
+    {
+        "phrase": "leverage synergies",
+        "similarity_threshold": 0.95
+    },
+    {
+        "phrase": "demonstrate leadership",
+        "similarity_threshold": 0.96
+    },
+    {
+        "phrase": "exercise due diligence",
+        "similarity_threshold": 0.97
+    },
+    {
+        "phrase": "maximize stakeholder value",
+        "similarity_threshold": 0.98
+    },
+    {
+        "phrase": "prioritize tasks",
+        "similarity_threshold": 0.99
+    },
+    {
+        "phrase": "facilitate collaboration",
+        "similarity_threshold": 0.95
+    },
+    {
+        "phrase": "monitor performance metrics",
+        "similarity_threshold": 0.96
+    },
+    {
+        "phrase": "execute strategies",
+        "similarity_threshold": 0.97
+    },
+    {
+        "phrase": "gauge effectiveness",
+        "similarity_threshold": 0.98
+    },
+    {
+        "phrase": "champion change",
+        "similarity_threshold": 0.99
+    }
+]
